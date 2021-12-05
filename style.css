@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+:root{
+    --body:#f9f9ff;
+    --yellow:#ffd13c;
+    --red:#ff4c60;
+    --text-color:#603f79;
+    --purple:#6c6ce5;
+    --box-shadow:0 .3rem 1.5rem rgba(0,0,0,0.1);
+
+}
+
+
 header{
     position:fixed;
     top:0;
